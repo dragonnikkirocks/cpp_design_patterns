@@ -1,0 +1,9 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+bazel-bin/
+bazel-cpp_design_patterns/
+bazel-design_patterns/
+bazel-out/
+bazel-testlogs/
